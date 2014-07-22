@@ -39,5 +39,5 @@ nnoremap <C-N> :tabn<CR>
 nnoremap <C-P> :set paste<CR>
 nnoremap <C-J> :set nonu<CR>
 nnoremap <C-K> :set nu<CR>
-nnoremap <C-B> :tabp<CR>
+nnoremap <C-M> :tabp<CR>
 
